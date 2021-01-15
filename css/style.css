@@ -97,8 +97,6 @@ header, #header-banner{
     max-width: 78px;
 }
 
-/*** Responsive ***/
-
 @media screen and (max-width:576px) {
     .headline {
         font-size: 60px;
